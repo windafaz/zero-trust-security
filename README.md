@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zero Trust Security — Sistem Nilai
 
 Proyek praktikum Keamanan Informasi yang menerapkan konsep **Zero Trust Security** pada sistem pengelolaan nilai mahasiswa. Setiap permintaan akses perlu melalui verifikasi identitas, token, perangkat, dan hak akses sesuai peran pengguna.
@@ -234,3 +235,6 @@ Beberapa skenario pengujian yang dapat dilakukan:
 ## 11. Penutup
 
 Proyek ini menerapkan prinsip Zero Trust dengan memverifikasi identitas pengguna, token akses, device ID, dan hak akses sebelum memberikan akses ke layanan. Pemisahan API Gateway, Service Nilai, dan Service Transkrip membantu menunjukkan penerapan kontrol akses pada sistem pengelolaan nilai mahasiswa.
+=======
+# zero-trust-security
+>>>>>>> 16cf9353f78d50ace02c848c9f6f4c91d4c5dd63
